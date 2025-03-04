@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/contents/data/metabase/metabase-101/","tags":["Docker-Compose","Docker","SQL","Business-Intelligence","Metabase"],"created":"2024-11-08T16:00:15.035+01:00","updated":"2024-11-10T23:09:06.543+01:00"}
+{"dg-publish":true,"permalink":"/contents/data/metabase/metabase-101/","tags":["Docker-Compose","Docker","SQL","Business-Intelligence","Metabase"],"created":"2024-11-08T16:00:15.035+01:00","updated":"2024-11-28T16:57:36.258+01:00"}
 ---
 
 
 ## What is Metabase?
 
-Metabase is an open-source business intelligence and data analytics application that allows users to easily connect to data sources and analyze and visualize their data. It's design allows for both technical and technical users to create complex queries and charts. These charts can then be organizes into dashboard and shared with others, even those without Metabase accounts. 
+Metabase is an open-source business intelligence and data analytics application that allows users to easily connect their data sources and visualize their queries. It's design allows for both technical and non-technical users to create complex queries and charts. These charts can then be organizes into dashboard and shared with others, even those without Metabase accounts. 
 
 ## Why Metabase?
 
@@ -84,7 +84,7 @@ The Postgres instance contains:
 - A default postgres user.
 - A port.
 - A series of volumes.
-- A healtcheck. 
+- A healthcheck. 
 
 The most interesting part here is the volumes.
 
@@ -147,7 +147,7 @@ What pops up now is the default visualization option, which is just a number.
 
 ![Artists count Visualization](https://i.imgur.com/ZeZWPHa.png)
 
-That is it, now we only need to save it and and it to a dashboard. This is done by pressing the "Save" button in the top right corner. 
+That is it, now we only need to save it and add it to a dashboard. This is done by pressing the "Save" button in the top right corner. 
 
 This pop up will ask if you want to add a description or save it to a specific collection. We are going to leave it as is. But this will be very important later on when we have dozens if not hundreds of questions. 
 ![Save new Question](https://i.imgur.com/VRmiFRx.png)
@@ -187,7 +187,7 @@ Query
 ![Artist Nationality Query](https://i.imgur.com/J3gXAP7.png)
 
 Visualization
-![[Pasted image 20241110213123.png\|Pasted image 20241110213123.png]]
+![Artist nationality visualization](https://i.imgur.com/oEFG9Lm.png)
 
 ## How to share charts? 
 

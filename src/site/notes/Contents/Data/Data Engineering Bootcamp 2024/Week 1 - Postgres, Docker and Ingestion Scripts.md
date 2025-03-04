@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/data/data-engineering-bootcamp-2024/week-1-postgres-docker-and-ingestion-scripts/","tags":["Docker","Docker-Compose","Python","Postgres","PgAdmin","Scripts","DE_ZOOMCAMP_2024","Week_1"],"created":"2024-06-07T17:41:41.642+02:00","updated":"2024-06-07T17:41:41.642+02:00"}
+{"dg-publish":true,"permalink":"/contents/data/data-engineering-bootcamp-2024/week-1-postgres-docker-and-ingestion-scripts/","tags":["Docker","Docker-Compose","Python","Postgres","PgAdmin","Scripts","DE_ZOOMCAMP_2024","Week_1"],"created":"2024-06-07T17:41:41.642+02:00","updated":"2024-12-17T19:21:28.052+01:00"}
 ---
 
 
@@ -10,6 +10,7 @@ It's used for basically everything that a database can be used for from simple t
 
 Here's a very good TLDR: 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n2Fluyr3lbc?si=cffVYWSbivn9G3ZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## What is Docker? 
 
 Docker is a containerization app, containerization is a type of virtual machine similar to [VMWare](https://www.ibm.com/topics/vmware#:~:text=Simply%20put%2C%20VMware%20develops%20virtualization,called%20virtual%20machines%20(VMs).). 
