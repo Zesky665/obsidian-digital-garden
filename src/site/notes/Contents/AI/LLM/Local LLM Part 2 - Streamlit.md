@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/ai/llm/local-llm-part-2-streamlit/","tags":["AI","LLM","Business-Intelligence","Python"],"created":"2025-03-03T15:27:44.350+01:00","updated":"2025-03-06T16:38:08.953+01:00"}
+{"dg-publish":true,"permalink":"/contents/ai/llm/local-llm-part-2-streamlit/","tags":["AI","LLM","Business-Intelligence","Python","Local_LLM"],"created":"2025-03-03T15:27:44.350+01:00","updated":"2025-03-10T23:38:09.818+01:00"}
 ---
 
 

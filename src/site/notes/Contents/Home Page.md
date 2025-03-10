@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/home-page/","tags":["Home","gardenEntry","gardenEntry"],"created":"2024-06-07T17:41:41.644+02:00","updated":"2024-11-10T23:30:48.933+01:00"}
+{"dg-publish":true,"permalink":"/contents/home-page/","tags":["Home","gardenEntry","gardenEntry","gardenEntry"],"created":"2024-06-07T17:41:41.644+02:00","updated":"2024-11-10T23:30:48.933+01:00"}
 ---
 
 My name is Zharko Cekovski and this is my digital garden. 
