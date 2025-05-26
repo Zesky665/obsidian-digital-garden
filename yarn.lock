@@ -1370,9 +1370,9 @@ form-data@^4.0.0:
     mime-types "^2.1.12"
 
 fs-file-tree@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/fs-file-tree/-/fs-file-tree-1.1.1.tgz#a1e08f9f6066d109797159e368f072e7190d6dd0"
-  integrity sha512-v0helQXZOGxxq9rzEnmYR+Kd7uwupCiTo9PQMlsqZX6zDPoLBOertv53ttY1vAeEoe15pM9jGv9J7f/KFR/S5A==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/fs-file-tree/-/fs-file-tree-1.1.2.tgz#64936e66ca1f75586b4e795635f6a79de95e0cb6"
+  integrity sha512-NCMV5VarvMM+NFNXBL5pOZLxHlyGI2Jt/DqKP9An1DqRrYGdcGUHcF9CnOw3QlAMP7F/TydHV+KwbY6rrG2Jvw==
   dependencies:
     assured "^1.0.14"
     bindy "^1.0.3"
